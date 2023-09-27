@@ -1,0 +1,13 @@
+C:\Users\55619\Desktop\SistemaVoto\obj\Debug\netcoreapp3.1\SistemaVoto.csprojAssemblyReference.cache
+C:\Users\55619\Desktop\SistemaVoto\obj\Debug\netcoreapp3.1\SistemaVoto.AssemblyInfoInputs.cache
+C:\Users\55619\Desktop\SistemaVoto\obj\Debug\netcoreapp3.1\SistemaVoto.AssemblyInfo.cs
+C:\Users\55619\Desktop\SistemaVoto\obj\Debug\netcoreapp3.1\SistemaVoto.csproj.CoreCompileInputs.cache
+C:\Users\55619\Desktop\SistemaVoto\bin\Debug\netcoreapp3.1\SistemaVoto.exe
+C:\Users\55619\Desktop\SistemaVoto\bin\Debug\netcoreapp3.1\SistemaVoto.deps.json
+C:\Users\55619\Desktop\SistemaVoto\bin\Debug\netcoreapp3.1\SistemaVoto.runtimeconfig.json
+C:\Users\55619\Desktop\SistemaVoto\bin\Debug\netcoreapp3.1\SistemaVoto.runtimeconfig.dev.json
+C:\Users\55619\Desktop\SistemaVoto\bin\Debug\netcoreapp3.1\SistemaVoto.dll
+C:\Users\55619\Desktop\SistemaVoto\bin\Debug\netcoreapp3.1\SistemaVoto.pdb
+C:\Users\55619\Desktop\SistemaVoto\obj\Debug\netcoreapp3.1\SistemaVoto.dll
+C:\Users\55619\Desktop\SistemaVoto\obj\Debug\netcoreapp3.1\SistemaVoto.pdb
+C:\Users\55619\Desktop\SistemaVoto\obj\Debug\netcoreapp3.1\SistemaVoto.genruntimeconfig.cache
